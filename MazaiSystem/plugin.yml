@@ -1,0 +1,11 @@
+name: MazaiSystem
+main: MazaiCrafty\MazaiSystem\Main
+version: 0.0.1
+api:
+  - 3.0.0
+  - 3.0.0-ALPHA5
+  - 3.0.0-ALPHA6
+load: STARTUP
+author: MazaiCrafty
+description: Mazai NekoServer JP System
+website: http://mazai-nekoserver.weebly.com/
